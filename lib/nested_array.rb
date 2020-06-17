@@ -25,6 +25,7 @@ def assembled_matrix
     ["ORGANIC_PRODUCE"],
     ["CONVENTIONAL_PRODUCE"]
   ]
+end 
   }
 end
 
