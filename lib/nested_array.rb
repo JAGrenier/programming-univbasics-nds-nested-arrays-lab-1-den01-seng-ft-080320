@@ -2,7 +2,7 @@
 
 ORGANIC_PRODUCE = [
   "Strawberries",
-  "Potatoes",
+  "Potatoes", 
   "Grapes",
   "Avocadoes",
   "Asparagus"
